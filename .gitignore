@@ -1,0 +1,25 @@
+# Bases EPH pesadas
+usu_individual_t316.txt
+usu_individual_t317.txt
+usu_individual_T318.txt
+usu_individual_T319.txt
+usu_individual_T320.txt
+usu_individual_T321.txt
+usu_individual_T322.txt
+usu_individual_T323.txt
+usu_individual_T324.txt
+usu_individual_T325.txt
+EPH_*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos internos grandes/no necesarios
+resultado_imputacion_2025_mejorado.csv
+serie_historica_mercado_laboral_completa.csv
+ingresos_reales_ocupacion_principal.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
