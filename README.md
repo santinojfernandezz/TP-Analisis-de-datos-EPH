@@ -1,3 +1,5 @@
 # TP-Analisis-de-datos-EPH
-
-oh yeah hermano
+Alumnos:
+Juan Pablo Leiva
+Santino Jonas Fernandez
+Bautista Elena
